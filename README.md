@@ -1,11 +1,7 @@
-# A Svelte 3 skeleton app
+# A Svelte 3 + SAM skeleton app
 
 ## Done
 
-- Bundling using Parcel
-- Testing with Jest (with Snapshot support)
-- Formatting with ESLint and Prettier
-- Transpiling with Babel
-- Wallaby enabled
+- Basic Svelte configuration
 
 ## Todo
